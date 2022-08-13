@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Lucas Barria</h1>
 <h3 align="center">Desarollador Front-End, Estudiante de la carrera Full Stack de CoderHouse.</h3>
 
-- 👨‍💻 Puede ver mis proyectos aqui: [https://portfolio-barria.netlify.app/index.html](https://portfolio-barria.netlify.app/index.html)
+- 👨‍💻 Puede ver mis proyectos aqui: [https://xdysar.github.io/Portfolio-Barria/](https://xdysar.github.io/Portfolio-Barria/)
 
 - 📫 Mi correo es: **lucasbnicolas@gmail.com**
 
